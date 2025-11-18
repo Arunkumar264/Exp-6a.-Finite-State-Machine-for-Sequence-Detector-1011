@@ -109,7 +109,8 @@ module mealy_fsm_1011_tb;
 endmodule
 ```
 # output Waveform
-<img width="1045" height="642" alt="Screenshot 2025-10-31 161755 - Copy" src="https://github.com/user-attachments/assets/7adfdfc3-25b8-4e84-a91d-ce229db012f9" />
+<img width="1616" height="827" alt="Screenshot 2025-11-18 103100" src="https://github.com/user-attachments/assets/8c5e2519-88b1-4443-aadf-95951574139f" />
+
 
 
 
